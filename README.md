@@ -5,7 +5,7 @@ Python 3, OpenSource, Just for lulz.
 
 ### How to install?
 ```sh
-git clone https://github.com/LulzLoL231/lulzcode.git
+pip install lulzcode
 ```
 
 ### How to use?
