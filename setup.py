@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='lulzcode',
-    version='1.0',
+    version='1.3',
     packages=find_packages(),
     author='LulzLoL231',
     author_email='lznet@pm.me',
